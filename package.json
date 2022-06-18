@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FrazCake/prettier-config"
+    "url": "https://github.com/FrazCake/generate-env"
   },
   "author": "FrazCake",
   "license": "MIT",
