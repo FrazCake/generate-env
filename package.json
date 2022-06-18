@@ -1,6 +1,6 @@
 {
   "name": "@frazcake/generate-env",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": ".env generator from configurations",
   "main": "index.js",
   "repository": {
