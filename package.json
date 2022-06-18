@@ -1,11 +1,11 @@
 {
   "name": "@frazcake/generate-env",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": ".env generator from configurations",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FrazCake/prettier-config"
+    "url": "https://github.com/FrazCake/generate-env"
   },
   "author": "FrazCake",
   "license": "MIT",
